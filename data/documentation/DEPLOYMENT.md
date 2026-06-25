@@ -249,7 +249,7 @@ LIMIT 10;
 "
 ```
 
-## 🔄 Обновление данных
+##  Обновление данных
 
 ### Регулярные обновления
 
@@ -276,7 +276,7 @@ start_date = last_date + timedelta(days=1)
 end_date = datetime.now().date()
 ```
 
-## 🔐 Безопасность
+##  Безопасность
 
 ### Checklist перед production
 

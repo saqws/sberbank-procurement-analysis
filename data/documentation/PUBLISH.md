@@ -228,7 +228,7 @@ git checkout main
 ### 4. Добавить в README ссылки
 
 ```markdown
-## 🔗 Quick Links
+##  Quick Links
 
 - [ Live Demo](https://your-username.github.io/sberbank-procurement-analysis)
 - [📖 Documentation](./DEPLOYMENT.md)
@@ -256,12 +256,12 @@ git checkout main
 ##  Метрики успеха
 
 Отслеживать:
-- ⭐ GitHub Stars
-- 👀 Views
-- 🔀 Forks
-- 📥 Clones
-- 🐛 Issues
-- 💬 Discussions
+-  GitHub Stars
+-  Views
+-  Forks
+-  Clones
+-  Issues
+-  Discussions
 
 ##  Готово!
 
